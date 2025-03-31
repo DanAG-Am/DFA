@@ -21,10 +21,10 @@ Se imprime directamente en la terminal la siguiente tabla:
 - a Variable
 - = Asignacion
 - 32.4 Real
-- * Multiplicacion
+- '*' Multiplicacion
 - ( Parentesis que abre
 - -8.6 Real
-- - Resta
+- '-' Resta
 - b Variable
 - ) Parentesis que cierra
 - / Division
