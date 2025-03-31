@@ -15,27 +15,23 @@ python DFAActividad.py
 
 ## Salida
 Se imprime directamente en la terminal la siguiente tabla:
-b Variable
-= Asignacion
-7 Entero
-a Variable
-= Asignacion
-32.4 Real
-* Multiplicacion
-( Parentesis que abre
--8.6 Real
-- Resta
-b Variable
-) Parentesis que cierra
-/ Division
-6.1E-8 Real
-d Variable
-= Asignacion
-a Variable
-^ Potencia
-b Variable
-// Esto es un comentario Comentario
-
+- b = Asignación  
+- 7 (Entero)  
+- a = Asignación  
+- 32.4 (Real)  
+- * (Multiplicación)  
+- ( (Paréntesis que abre)  
+- -8.6 (Real)  
+- - (Resta)  
+- b (Variable)  
+- ) (Paréntesis que cierra)  
+- / (División)  
+- 6.1E-8 (Real)  
+- d = Asignación  
+- a (Variable)  
+- ^ (Potencia)  
+- b (Variable)  
+- // (Esto es un comentario)
 Igualmente, imprime el archivo de texto para asegurarnos de que se lee correctamente. 
 
 ## DFA que resuelve el problema
